@@ -1,4 +1,4 @@
-### Hii 👋, I'm Shivam Chhabra
+### Hii 👋, I'm Shivam Goyal
 
 <!--
 **goyalshivam204/goyalshivam204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
