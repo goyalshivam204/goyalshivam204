@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hii 👋, I'm Shivam Chhabra
 
 <!--
 **goyalshivam204/goyalshivam204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### A Passionate Full Stack Developer and Leetcoded from INDIA 
+
+- 🔭 I’m currently working at Samsung SDS as SDE Intern
+- 🌱  I’m on the way to Improving my technical as well as problem-solving skills more and more.
+- 📫 Reach me out at [shivamaggarwal2042001@gmail.com](shivamaggarwal2042001@gmail.com)
